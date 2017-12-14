@@ -10,8 +10,8 @@ var paypal = require('paypal-rest-sdk');
 // configure paypal with the credentials you got when you created your paypal app
 paypal.configure({
   'mode': 'sandbox', //sandbox or live 
-  'client_id': 'YOUR_CLIENT_ID_HERE', // please provide your client id here 
-  'client_secret': 'YOUR_CLIENT_SECRET_HERE' // provide your client secret here 
+  'client_id': 'xx', // please provide your client id here 
+  'client_secret': 'xx' // provide your client secret here 
 });
 
 
